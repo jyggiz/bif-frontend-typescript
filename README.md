@@ -11,3 +11,4 @@ Solving 60 typescript puzzles by bigfrontend.dev
 5. [Pick](https://github.com/jyggiz/big-frontend-typescript/blob/main/pick/README.md)
 6. [Omit](https://github.com/jyggiz/big-frontend-typescript/blob/main/omit/README.md)
 7. [Exclude](https://github.com/jyggiz/big-frontend-typescript/blob/main/exclude/README.md)
+8. [Extract](https://github.com/jyggiz/big-frontend-typescript/blob/main/extract/README.md)
