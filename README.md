@@ -13,3 +13,4 @@ Solving 60 typescript puzzles by bigfrontend.dev
 7. [Exclude](https://github.com/jyggiz/big-frontend-typescript/blob/main/exclude/README.md)
 8. [Extract](https://github.com/jyggiz/big-frontend-typescript/blob/main/extract/README.md)
 9. [NonNullable](https://github.com/jyggiz/big-frontend-typescript/blob/non-nullable/extract/README.md)
+10. [Parameters](https://github.com/jyggiz/big-frontend-typescript/blob/non-nullable/parameters/README.md)
