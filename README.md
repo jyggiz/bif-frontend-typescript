@@ -1,6 +1,6 @@
 # Big Frontend Typescript puzzles
 
-Solving 60 typescript puzzles by bigfrontend.dev
+Solving 60 typescript puzzles by [bigfrontend.dev](https://bigfrontend.dev/typescript)
 
 ## Table of Contents
 
@@ -12,6 +12,7 @@ Solving 60 typescript puzzles by bigfrontend.dev
 6. [Omit](https://github.com/jyggiz/big-frontend-typescript/blob/main/omit/README.md)
 7. [Exclude](https://github.com/jyggiz/big-frontend-typescript/blob/main/exclude/README.md)
 8. [Extract](https://github.com/jyggiz/big-frontend-typescript/blob/main/extract/README.md)
-9. [NonNullable](https://github.com/jyggiz/big-frontend-typescript/blob/non-nullable/extract/README.md)
-10. [Parameters](https://github.com/jyggiz/big-frontend-typescript/blob/non-nullable/parameters/README.md)
-11. [ConstructorParameters](https://github.com/jyggiz/big-frontend-typescript/blob/non-nullable/constructor-parameters/README.md)
+9. [NonNullable](https://github.com/jyggiz/big-frontend-typescript/blob/main/extract/README.md)
+10. [Parameters](https://github.com/jyggiz/big-frontend-typescript/blob/main/parameters/README.md)
+11. [ConstructorParameters](https://github.com/jyggiz/big-frontend-typescript/blob/main/constructor-parameters/README.md)
+12. [ReturnType](https://github.com/jyggiz/big-frontend-typescript/blob/main/return-type/README.md)
