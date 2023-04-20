@@ -16,3 +16,4 @@ Solving 60 typescript puzzles by [bigfrontend.dev](https://bigfrontend.dev/types
 10. [Parameters](https://github.com/jyggiz/big-frontend-typescript/blob/main/parameters/README.md)
 11. [ConstructorParameters](https://github.com/jyggiz/big-frontend-typescript/blob/main/constructor-parameters/README.md)
 12. [ReturnType](https://github.com/jyggiz/big-frontend-typescript/blob/main/return-type/README.md)
+13. [InstanceType](https://github.com/jyggiz/big-frontend-typescript/blob/main/instance-type/README.md)
