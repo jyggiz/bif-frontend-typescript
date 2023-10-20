@@ -1,6 +1,6 @@
-As the opposite of ``Partial<T>``, ``Required<T>`` sets all properties of ``T`` to required.
+As the opposite of `Partial<T>`, `Required<T>` sets all properties of `T` to required.
 
-Please implement ``MyRequired<T>`` by yourself.
+Please implement `MyRequired<T>` by yourself
 
 ```
 // all properties are optional

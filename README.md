@@ -5,7 +5,7 @@ Solving 60 typescript puzzles by [bigfrontend.dev](https://bigfrontend.dev/types
 ## Table of Contents
 
 1. [Partial](https://github.com/jyggiz/big-frontend-typescript/blob/main/partial/README.md)
-2. [Required](https://github.com/jyggiz/big-frontend-typescript/blob/main/required/README.md)
+2. [Required](https://github.com/jyggiz/big-frontend-typescript/blob/main/required/README.MD)
 3. [Readonly](https://github.com/jyggiz/big-frontend-typescript/blob/main/readonly/README.md)
 4. [Record](https://github.com/jyggiz/big-frontend-typescript/blob/main/record/README.md)
 5. [Pick](https://github.com/jyggiz/big-frontend-typescript/blob/main/pick/README.md)
@@ -18,3 +18,4 @@ Solving 60 typescript puzzles by [bigfrontend.dev](https://bigfrontend.dev/types
 12. [ReturnType](https://github.com/jyggiz/big-frontend-typescript/blob/main/return-type/README.md)
 13. [InstanceType](https://github.com/jyggiz/big-frontend-typescript/blob/main/instance-type/README.md)
 14. [ThisParameterType](https://github.com/jyggiz/big-frontend-typescript/blob/main/this-parameter-type/README.md)
+15. [OmitThisParameterType](https://github.com/jyggiz/big-frontend-typescript/blob/main/omit-this-parameter-type/README.md)
