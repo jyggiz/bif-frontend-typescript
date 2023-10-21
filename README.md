@@ -19,3 +19,4 @@ Solving 60 typescript puzzles by [bigfrontend.dev](https://bigfrontend.dev/types
 13. [InstanceType](https://github.com/jyggiz/big-frontend-typescript/blob/main/instance-type/README.md)
 14. [ThisParameterType](https://github.com/jyggiz/big-frontend-typescript/blob/main/this-parameter-type/README.md)
 15. [OmitThisParameterType](https://github.com/jyggiz/big-frontend-typescript/blob/main/omit-this-parameter-type/README.md)
+16. [FirstChar](https://github.com/jyggiz/big-frontend-typescript/blob/main/first-char/README.md)
